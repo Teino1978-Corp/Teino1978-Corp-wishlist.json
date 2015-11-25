@@ -1,0 +1,29 @@
+{
+    "games": [
+        {
+            "ps4": [
+                {
+                    "name": "Fallout 4"
+                },
+                {
+                    "name": "Need For Speed 2015"
+                },
+                {
+                    "name": "Uncharted : The Nathan Drake Collection"
+                },
+                {
+                    "name": "The Last of Us: Remastered"
+                },
+                {
+                    "name": "Metal Gear Solid V The Phantom Pain"
+                },
+                {
+                    "name": "DMC Devil May Cry"
+                },
+                {
+                    "name": "Bloodborne"
+                }
+            ]
+        }
+    ]
+}
